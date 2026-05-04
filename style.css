@@ -1,5 +1,8 @@
 /* Цвет фона и шрифт */
 body {
-  background-color: #add8e6;
+  background-color: #f0cc00;
   font-family: Arial, sans-serif;
+}
+h1 {
+    color: red;
 }
